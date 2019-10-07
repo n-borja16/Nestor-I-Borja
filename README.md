@@ -15,5 +15,7 @@ Madre: Alina Martinez
 
 
 Educacion: 
+
 -Academia Santa Maria
+
 -Universidad de Panama
