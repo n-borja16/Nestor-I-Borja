@@ -1,5 +1,6 @@
-#*Nestor  Borja*<h1>
+*Nestor  Borja*
 
+![GitHub Logo](/images/logo.png)
 
 **Datos personales**
 
