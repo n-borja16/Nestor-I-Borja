@@ -1,21 +1,20 @@
-#hello-world
-Nestor  Borja
+#*Nestor  Borja*<h1>
 
 
-Datos personales
+**Datos personales**
 
-Nombre: Nestor Borja
+**Nombre:** Nestor Borja
 
-Edad: 18 años
+**Edad:** 18 años
 
-Nacimiento: 16 de octubre de 2000
+**Nacimiento:** 16 de octubre de 2000
 
-Padre. Netor Borja
+**Padre:** Nestor Borja
 
-Madre: Alina Martinez
+**Madre:** Alina Martinez
 
 
-Educacion: 
+**Educacion:** 
 
 -Academia Santa Maria
 
