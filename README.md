@@ -1,5 +1,7 @@
 Nestor  Borja
+cd nombre de usuario .github.io
 
+ echo "Hola Mundo"> index.html
 
 Datos personales
 
