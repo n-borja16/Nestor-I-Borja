@@ -1,27 +1,15 @@
-<br>Nestor  Borja</br>
+Nestor  Borja
 
 
-<br>Datos personales</br>
+Datos personales
 
-
-<br>Nombre: Nestor Borja</br>
-
-
-<br>Edad: 18 años</br>
-
-
-<br>Nacimiento: 16 de octubre de 2000</br>
-
-
-<br>Padre. Netor Borja</br>
-
-
-<br>Madre: Alina Martinez</br>
-
+Nombre: Nestor Borja
+Edad: 18 años
+Nacimiento: 16 de octubre de 2000
+Padre. Netor Borja
+Madre: Alina Martinez
 
 
 Educacion: 
-
 -Academia Santa Maria
-
 -Universidad de Panama
