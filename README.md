@@ -1,6 +1,6 @@
 Nestor  Borja
 
-Datos personales
+<br>Datos personales</br>
 
 Nombre: Nestor Borja
 
