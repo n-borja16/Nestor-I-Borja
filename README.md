@@ -1,5 +1,5 @@
 Nestor  Borja
-Datos prsonales
+<br>Datos personales<br>
 Nombre: Nestor Borja
 Edad: 18 años
 Nacimiento: 16 de octubre de 2000
