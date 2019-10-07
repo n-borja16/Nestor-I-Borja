@@ -6,17 +6,21 @@
 
 **Nombre:** Nestor Borja
 
-**Edad:** 18 años
 
-**Nacimiento:** 16 de octubre de 2000
+**Edad:** 20 años
 
-**Padre:** Nestor Borja
+**Nacimiento:** 23 de mayo de 1999
 
-**Madre:** Alina Martinez
+**Padre:** Cipriano Obama
 
+**Madre:** Merkel Bruselas
+
+**Estado civil:** Viudo
+
+**Residencia:** La Favela
 
 ## **Educacion:** 
 
--Academia Santa Maria
+Academia Santa Maria
 
--Universidad de Panama
+Universidad de Panama
