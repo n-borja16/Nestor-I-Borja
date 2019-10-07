@@ -1,8 +1,8 @@
-Nestor  Borja
+# Nestor Borja
 
 <img src="https://m.eldiario.es/fotos/cantante-Bob-Marley_EDIIMA20181017_0696_19.jpg">
 
-**Datos personales**
+## **Datos personales**
 
 **Nombre:** Nestor Borja
 
@@ -15,7 +15,7 @@ Nestor  Borja
 **Madre:** Alina Martinez
 
 
-**Educacion:** 
+## **Educacion:** 
 
 -Academia Santa Maria
 
