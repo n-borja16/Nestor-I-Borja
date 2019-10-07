@@ -1,5 +1,5 @@
 Nestor  Borja
-https://holatelcel.com/wp-content/uploads/2019/02/HEAD-bob-marley-2.jpg
+
 
 Datos personales
 
