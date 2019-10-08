@@ -29,7 +29,7 @@ Universidad de Panamá
 
 **Facebook:** [Iván Borja](https://www.facebook.com/ivan.borja.566/)
 
-**Instagram:** [Nborja160] (https://www.instagram.com/?hl=es-la/)
+**Instagram:** [nborja160] (https://www.instagram.com/nborja160/?hl=es-la)
 
 **Youtube:** https://www.youtube.com/channel/UCDt_jSjigbz67qOrVEXshdw?view_as=subscriber
 
