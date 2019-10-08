@@ -27,6 +27,15 @@ Universidad de Panama
 
 ## **Contactos de redes:**
 
+* Samuel Bermudas
+
+* Enrique_JJ
+
+* Kylian Mbappé
+
+* Frank Lampard
+
+* Angel Orelien
 
 
 
