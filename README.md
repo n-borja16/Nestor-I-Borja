@@ -27,7 +27,7 @@ Universidad de Panamá
 
 ## **Contactos de redes:**
 
-**Facebook:** <url scr="https://www.facebook.com"> Iván Borja
+**Facebook:** [Iván Borja]<url scr="https://www.facebook.com">
 
 **Instagram:** https://www.instagram.com/?hl=es-la
 
