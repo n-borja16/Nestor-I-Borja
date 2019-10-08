@@ -27,17 +27,12 @@ Universidad de Panamá
 
 ## **Contactos de redes:**
 
-* Samuel Bermudas
+**Facebook:** https://www.facebook.com/
 
-* Enrique_JJ
+**Instagram:** https://www.instagram.com/?hl=es-la
 
-* Kylian Mbappé
+**Youtube:** https://www.youtube.com/channel/UCDt_jSjigbz67qOrVEXshdw?view_as=subscriber
 
-* Frank Lampard
-
-* Ángel Orelién
-
-* David Jones
 
 
 
