@@ -1,6 +1,6 @@
 # Nestor Borja
 
-<img src="https://drive.google.com/file/d/0B8UJ8xJVcE3xd011UXlvVU9WTnRNNkRORGJTcmpMSHFSQkVR/view">
+<img src="https://www.facebook.com/ivan.borja.566">
 
 ## **Datos personales**
 
