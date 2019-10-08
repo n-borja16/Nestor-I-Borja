@@ -1,6 +1,6 @@
 # Nestor Borja
 
-<img src="https://m.eldiario.es/fotos/cantante-Bob-Marley_EDIIMA20181017_0696_19.jpg">
+<img src="https://drive.google.com/file/d/0B8UJ8xJVcE3xd011UXlvVU9WTnRNNkRORGJTcmpMSHFSQkVR/view">
 
 ## **Datos personales**
 
@@ -11,16 +11,20 @@
 
 **Nacimiento:** 23 de mayo de 1999
 
-**Padre:** Cipriano Obama
+**Padre:** Sergio Borja
 
-**Madre:** Merkel Bruselas
+**Madre:** Merkel Martinez
 
-**Estado civil:** Viudo
+**Estado civil:** Soltero
 
-**Residencia:** La Favela
+**Residencia:** Penonomé
 
 ## **Educacion:** 
 
 Academia Santa Maria
 
 Universidad de Panama
+
+##**Contactos de redes**
+
+
