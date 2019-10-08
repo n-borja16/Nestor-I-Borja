@@ -4,7 +4,7 @@
 
 ## **Datos personales**
 
-**Nombre:** Nestor Borja
+**Nombre:** Néstor Borja
 
 
 **Edad:** 20 años
@@ -13,7 +13,7 @@
 
 **Padre:** Sergio Borja
 
-**Madre:** Merkel Martinez
+**Madre:** Merkel Martínez
 
 **Estado civil:** Soltero
 
@@ -21,9 +21,9 @@
 
 ## **Educacion:** 
 
-Academia Santa Maria
+Academia Santa María
 
-Universidad de Panama
+Universidad de Panamá
 
 ## **Contactos de redes:**
 
@@ -35,7 +35,13 @@ Universidad de Panama
 
 * Frank Lampard
 
-* Angel Orelien
+* Ángel Orelién
+
+* David Jones
+
+
+
+
 
 
 
