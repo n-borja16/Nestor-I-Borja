@@ -1,6 +1,6 @@
 # Nestor Borja
 
-<img src="https://scontent.fpac1-1.fna.fbcdn.net/v/t1.0-9/72971758_2437114666365935_5573952902562578432_n.jpg?_nc_cat=109&_nc_oc=AQkl5JvCj5QUcBixX2tDRKtUwaGlAS7otqHtE8_xQbUo7sy-SEQCdECZ7qT5VGo0hY4&_nc_ht=scontent.fpac1-1.fna&oh=a7602734b05ef31963cfb764a25ec32b&oe=5DF2A5F1">
+<img src="https://scontent.fpac1-1.fna.fbcdn.net/v/t1.0-9/72611580_2437120733031995_3044936975967584256_n.jpg?_nc_cat=105&_nc_oc=AQlDTWB15EcWmX4ToYy8Snrl031SqHNSj05COnX-jdUZn3eBCF5tCgRgOHItqoV_yZk&_nc_ht=scontent.fpac1-1.fna&oh=abc4df1efc84184f3bc6af5aa77665d3&oe=5E3CF68E">
 
 ## **Datos personales**
 
@@ -25,6 +25,8 @@ Academia Santa Maria
 
 Universidad de Panama
 
-##**Contactos de redes**
+## **Contactos de redes:**
+
+
 
 
