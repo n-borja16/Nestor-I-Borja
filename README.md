@@ -19,13 +19,13 @@
 
 **Residencia:** Penonomé
 
-## **Educacion:** 
+<h2>Educacion:>/h2>
 
-Academia Santa María
+<p>Academia Santa María</p>
 
-Universidad de Panamá
+<p>Universidad de Panamá</p>
 
-## **Contactos de redes:**
+<h2>Contactos de redes<h/2>
 
 <p><strong>Facebook:</strong> <a href="https://www.facebook.com/ivan.borja.566">Iván Borja</a></p>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/nborja160/">nborja160</a></p>
