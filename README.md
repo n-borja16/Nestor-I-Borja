@@ -4,7 +4,7 @@
 
 <h2>Datos personales</h2>
 
-<p><strong>Nombre:</strong> Néstor Borja</p>
+<p><strong>Nombre:</strong> Néstor Iván Borja Martínez</p>
 <p><strong>Edad:</strong> 20 años</p>
 <p><strong>Nacimiento:</strong> 23 de mayo de 1999</p>
 <p><strong>Padre:</strong> Sergio Borja</p>
@@ -12,7 +12,7 @@
 <p><strong>Estado civil:</strong> Soltero</p>
 <p><strong>Residencia:</strong> Penonomé</p>
 
-<h2>Educacion:</h2>
+<h2>Educación:</h2>
 
 <p>Academia Santa María</p>
 
