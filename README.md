@@ -19,7 +19,7 @@
 
 **Residencia:** Penonomé
 
-<h2>Educacion:>/h2>
+<h2>Educacion:</h2>
 
 <p>Academia Santa María</p>
 
