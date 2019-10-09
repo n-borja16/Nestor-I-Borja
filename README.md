@@ -4,20 +4,13 @@
 
 ## **Datos personales**
 
-**Nombre:** Néstor Borja
-
-
-**Edad:** 20 años
-
-**Nacimiento:** 23 de mayo de 1999
-
-**Padre:** Sergio Borja
-
-**Madre:** Merkel Martínez
-
-**Estado civil:** Soltero
-
-**Residencia:** Penonomé
+<p><strong>Nombre:</strong> Néstor Borja</p>
+<p><strong>Edad:</strong> 20 años</p>
+<p><strong>Nacimiento:</strong> 23 de mayo de 1999</p>
+<p><strong>Padre:</strong> Sergio Borja</p>
+<p><strong>Madre:</strong> Merkel Martínez</p>
+<p><strong>Estado civil:</strong> Soltero</p>
+<p><strong>Residencia:</strong> Penonomé</p>
 
 <h2>Educacion:</h2>
 
