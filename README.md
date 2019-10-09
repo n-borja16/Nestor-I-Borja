@@ -27,9 +27,9 @@ Universidad de Panamá
 
 ## **Contactos de redes:**
 
-<p><a href="https://www.facebook.com/ivan.borja.566">Iván Borja</a></p>
-<p><a href="https://www.instagram.com/nborja160/">nborja160</a></p>
-<p><a href="https://www.youtube.com/channel/UCDt_jSjigbz67qOrVEXshdw?view_as=subscriber">Nestor Borja</a></p>
+<p><strong>Facebook</strong><a href="https://www.facebook.com/ivan.borja.566">Iván Borja</a></p>
+<p><strong>Instagram</strong><a href="https://www.instagram.com/nborja160/">nborja160</a></p>
+<p><strong>Youtube</strong><a href="https://www.youtube.com/channel/UCDt_jSjigbz67qOrVEXshdw?view_as=subscriber">Nestor Borja</a></p>
 
 
 
