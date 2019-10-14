@@ -2,6 +2,7 @@
 
 <img src="https://scontent.fpty1-1.fna.fbcdn.net/v/t1.0-9/11143186_908741709203246_7694369543928216237_n.jpg?_nc_cat=102&_nc_oc=AQmCJWNLOsnRuPvlaIjY8VipHxXKT0DzW8XYF4-LSwBqGfnkL3iY9Da5pck8gegOsYo&_nc_ht=scontent.fpty1-1.fna&oh=ba2bc4de77dd1a8f8f845238ad2102a4&oe=5E17F773">
 
+<h2><p> <a href="https://www.w3schools.com/code/tryit.asp?filename=G8YESZNGWK5P">Formulario de datos</a></p></h2>
 
 <h2>Datos personales</h2>
 
