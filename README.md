@@ -1,6 +1,6 @@
 <h1> Néstor Borja</h1>
 
-<img src="https://scontent.fpac1-1.fna.fbcdn.net/v/t1.0-9/72611580_2437120733031995_3044936975967584256_n.jpg?_nc_cat=105&_nc_oc=AQlDTWB15EcWmX4ToYy8Snrl031SqHNSj05COnX-jdUZn3eBCF5tCgRgOHItqoV_yZk&_nc_ht=scontent.fpac1-1.fna&oh=abc4df1efc84184f3bc6af5aa77665d3&oe=5E3CF68E">
+<img src="https://scontent.fpty1-1.fna.fbcdn.net/v/t1.0-9/11143186_908741709203246_7694369543928216237_n.jpg?_nc_cat=102&_nc_oc=AQmCJWNLOsnRuPvlaIjY8VipHxXKT0DzW8XYF4-LSwBqGfnkL3iY9Da5pck8gegOsYo&_nc_ht=scontent.fpty1-1.fna&oh=ba2bc4de77dd1a8f8f845238ad2102a4&oe=5E17F773">
 
 <h2>Datos personales</h2>
 
